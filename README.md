@@ -1,7 +1,11 @@
 # springboot-智慧党建系统 / springboot-Intelligent_Party_Construction
 
-![SpringBoot](https://spring.io/projects/spring-boot)
-![MyBatis-Plus](https://baomidou.com/)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-2.7+-brightgreen)
+![MyBatisPlus](https://img.shields.io/badge/MyBatisPlus-2.3-blue)
+![Shiro](https://img.shields.io/badge/Shiro-1.3.2-orange)
+![Hutool](https://img.shields.io/badge/Hutool-4.0.12-yellow)
+![MySQL](https://img.shields.io/badge/MySQL-5.7+-grey)
+![Vue](https://img.shields.io/badge/Vue-2.x-42b883)
 
 > 更多毕设项目可跳转至项目导航栏检索：[毕设项目](http://sysadmin.3vfree.vip)，需要联系博主v：xq-lucky311，q：1047944234
 
@@ -52,6 +56,7 @@ src/
 │   │   │   ├── upload/              # 文件存储
 ```
 ## 使用说明
+```
 1. 数据库初始化：执行`springboot1i659.sql`创建表结构
 2. 配置修改：application.yml 中设置 MySQL 连接参数
 3. 启动后端：运行 SpringbootSchemaApplication.java
